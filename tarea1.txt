@@ -2,3 +2,5 @@ Este archivo fue creado como tarea de sincronización
 
 
 Línea añadida desde GitHub en tarea
+Línea añadida en local en tarea.
+Línea añadida desde GitHub en tarea.
